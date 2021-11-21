@@ -1,0 +1,22 @@
+{
+  "name": "mdb-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dantencv89/mdb-api.git"
+  },
+  "author": "Nacho CV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dantencv89/mdb-api/issues"
+  },
+  "homepage": "https://github.com/Dantencv89/mdb-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
