@@ -1,0 +1,38 @@
+####
+
+GET http://localhost:3000/api
+
+####
+
+GET http://localhost:3000/api/done
+
+####
+
+GET http://localhost:3000/api/619a9510810a97a075217b82
+
+####
+
+GET http://localhost:3000/api/619a9510810a97a075217b83
+####
+
+DELETE http://localhost:3000/api/619a948f08503e906a65d661
+
+###
+
+POST http://localhost:3000/api 
+content-type:application/json
+
+{
+    "title":"Hacer un sitio web en Qlik",
+    "description":"trabajo SAREB"
+}
+
+
+###
+
+PUT http://localhost:3000/api/619a9510810a97a075217b82
+content-type:application/json
+
+{
+    "title":"Hacer un sitio web en Angular 9"
+}

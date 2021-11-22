@@ -1,2 +1,7 @@
-node_modules/
-gittoken.txt
+## Ignoring folders
+node_modules
+dist
+gitignorefiles
+
+## Enviromental variables
+.env
